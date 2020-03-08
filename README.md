@@ -1,2 +1,0 @@
-# practice
-For Jenkins practice
